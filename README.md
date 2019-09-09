@@ -1,2 +1,2 @@
 # keras-giris
-Keras Giriş Colab Notebook
+Keras apisi ile tensorflow kütüphanesini giriş seviyesinde incelediğim bir döküman oldu. Eklemelere devam edeceğim.
